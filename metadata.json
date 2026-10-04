@@ -1,0 +1,6 @@
+{
+  "name": "VaultFrame Local Inventory Gallery",
+  "description": "Zero-cloud high-resolution photography archive and product inventory catalog powered by persistent local IndexedDB storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
